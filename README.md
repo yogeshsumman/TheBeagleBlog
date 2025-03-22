@@ -1,4 +1,4 @@
-# Beagle Blog Website
+# Beagle Blog Website🐶
 
 ## Overview
 The **Beagle Blog** is a simple, informative webpage about the Beagle breed. It provides details on the breed's characteristics, images, and trivia to help visitors learn more about these intelligent and friendly dogs.
